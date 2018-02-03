@@ -10,7 +10,7 @@ layout: content
 
 MinGath atau Mini Gathering sendiri adalah penamaan khusus yang disematkan oleh [Zona IT Ternate] yang berarti pertemuan dalam skala kecil dengan tujuan untuk mengenalkan friendzit satu sama lain dengan sentuhan nuansa IT yang santai dan dilaksanakan pada tempat-tempat yang direkomendasikan dan disepakati bersama. MinGath dilakukan dengan sharing perkembangan IT maupun informasi-informasi lainnya yang direrpesentasikan oleh seseorang pemateri kepada mereka yang hadir. 
 
-Untuk registrasi cek disni [Register](http://friendzit.land/form/gath0x05) Silahkan Add channel kami [@evenzit] di telegram untuk mendapatkan informasi.
+Untuk registrasi cek disni[Register](http://friendzit.land/form/gath0x05) Silahkan Add channel kami [@evenzit] di telegram untuk mendapatkan informasi.
 
 ### Materi
 

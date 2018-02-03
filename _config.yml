@@ -1,0 +1,23 @@
+# Site settings
+title: "Mingath"
+bye_message: "2k18"
+baseurl: "/"
+url: "https://mingath.github.io"
+disqus: mingath
+
+# Header settings
+nick: "mingath"
+mail:
+    domain: "mingathmail"
+    ext: "id"
+source_code:
+    server: "github.com"
+    nick: "mingath"
+blog:
+    server: "wordpress.com"
+    nick: "mingath"
+fingerprint_key: "ZIT"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
